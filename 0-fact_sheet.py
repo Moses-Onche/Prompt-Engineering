@@ -57,3 +57,20 @@ technical information: ```fact_sheet```
 """
 response = get_completion(prompt)
 print(response)
+
+"""
+Iteration 1:
+    Use at most 50 words.
+"""
+
+"""
+Iteration 2:
+    Use at most 3 sentences.
+"""
+
+"""
+Iteration 3:
+    This description is intended for furniture retailers, should be
+    technical in nature and should focus on the materials used in
+    making the product.
+"""
